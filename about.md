@@ -30,7 +30,8 @@ Worked on building a lightweight 3D pose estimation model via knowledge distilla
 
 ## Publications
 
--  Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs. IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
+- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs. IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
+- Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning. Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
 
 ## Others
 I was a finalist of International Science and Engineering Fair sponsored by Intel (Intel ISEF 2015). 
