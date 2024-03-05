@@ -6,11 +6,11 @@ permalink: /about/
 
 # Minjae Kim
 
-__TL;DR__: a master's student who is interested in deep learning system optimization for mobile devices.
+__TL;DR__: a Ph.D. student who is interested in deep learning system optimization for mobile devices.
 
-I am a master's student in the department of computer science and engineering at Seoul National University. I received my bachelor degree in computer science from POSTECH.
+I am a Ph.D. student in the department of computer science and engineering at Seoul National University. I received master's degree in computer science from SNU and my bachelor degree in computer science from POSTECH.
 
-I am currently in [Software Platform Lab](https://spl.snu.ac.kr) (advised by [Prof. Byung-gon Chun](http://bgchun.github.io/)). I worked as an undergraduate research intern at [Computing Systems Lab](https://syslab.postech.ac.kr) (advised by [Prof. Hyojin Sung](https://hsung.postech.ac.kr/)).
+I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (advised by [Prof. Youngki Lee](https://youngkilee.blogspot.com/)), was in [Software Platform Lab](https://spl.snu.ac.kr) (advised by [Prof. Byung-gon Chun](http://bgchun.github.io/)), and worked as an undergraduate research intern at [Computing Systems Lab](https://syslab.postech.ac.kr) (advised by [Prof. Hyojin Sung](https://hsung.postech.ac.kr/)).
 
 Now, I am interested in accelerating computation heavy systems with software optimization for heterogeneous mobile devices. Currently, my main focus is on deep learning but I don't limit my interest to it. I strongly believe that cross-domain optimization from silicon to human is essential for deep learning (or any other areas) to penetrate our daily lives.
 
@@ -30,8 +30,8 @@ Worked on building a lightweight 3D pose estimation model via knowledge distilla
 
 ## Publications
 
-- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs. IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
-- Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning. Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
+- Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning, Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
+- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
 
 ## Others
 I was a finalist of International Science and Engineering Fair sponsored by Intel (Intel ISEF 2015). 
