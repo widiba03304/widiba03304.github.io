@@ -10,7 +10,7 @@ __TL;DR__: a Ph.D. student who is interested in deep learning system optimizatio
 
 I am a Ph.D. student in the department of computer science and engineering at Seoul National University. I received master's degree in computer science from SNU and my bachelor degree in computer science from POSTECH.
 
-I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (advised by [Prof. Youngki Lee](https://youngkilee.blogspot.com/)), was in [Software Platform Lab](https://spl.snu.ac.kr) (advised by [Prof. Byung-gon Chun](http://bgchun.github.io/)), and worked as an undergraduate research intern at [Computing Systems Lab](https://syslab.postech.ac.kr) (advised by [Prof. Hyojin Sung](https://hsung.postech.ac.kr/)).
+I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (advised by [Prof. Youngki Lee](https://youngkilee.blogspot.com/)), was in [Software Platform Lab](https://spl.snu.ac.kr) (advised by [Prof. Byung-Gon Chun](http://bgchun.github.io/)), and worked as an undergraduate research intern at [Computing Systems Lab](https://syslab.postech.ac.kr) (advised by [Prof. Hyojin Sung](https://hsung.postech.ac.kr/)).
 
 Now, I am interested in accelerating computation heavy systems with software optimization for heterogeneous mobile devices. Currently, my main focus is on deep learning but I don't limit my interest to it. I strongly believe that cross-domain optimization from silicon to human is essential for deep learning (or any other areas) to penetrate our daily lives.
 
