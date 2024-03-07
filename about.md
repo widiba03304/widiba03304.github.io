@@ -23,7 +23,7 @@ Now, I am interested in accelerating computation heavy systems with software opt
 ## Experiences
 - __Machine Learning Engineer @ Team ISLAND, Aug 2020 ~ Sep 2020__  
 Worked on building a lightweight 3D pose estimation model via knowledge distillation. To distill the knowledge from the regression-based teacher model, conducted label smoothing based on a gaussian filter to the output of the teacher model and jointly trained the student model with both the teacher model and the ground truth.
-- __Software Engineer (Outsourced work) @ [Richbeam](http://www.mel-chi.com/help/richbeam), May 2020 ~ July 2020__  
+- __Software Engineer (Outsourced work) @ [Richbeam](https://www.smelchi.com/), May 2020 ~ July 2020__  
   Migrated the complex backend system consisting of Flask, Tornado, and gRPC servers, which was already deployed on the private on-premise server, to the AWS Cloud with load balancing techniques.
 - __Software Engineer (Full-time) @ [Cryptoquant](https://cryptoquant.com), Sep 2019 ~ Mar 2020__  
   Worked on the whole infrastructure used for on-chain analysis and data provisioning. The system involves PostgreSQL, Flask, Redis, and MongoDB. 99.997% of the availability was achieved in the designed system, which is crucial in the financial field. Also, participated in an anti-money laundering system, which helped to solve the biggest sexual abuse “N-th room” in Korea.
