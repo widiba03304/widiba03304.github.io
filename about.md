@@ -14,6 +14,12 @@ I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (
 
 Now, I am interested in accelerating computation heavy systems with software optimization for heterogeneous mobile devices. Currently, my main focus is on deep learning but I don't limit my interest to it. I strongly believe that cross-domain optimization from silicon to human is essential for deep learning (or any other areas) to penetrate our daily lives.
 
+## Publications
+
+- Jingyu Lee, Hyunsoo Kim, Minjae Kim, Byung-Gon Chun, Youngki Lee. Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality, The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys'24) (To appear)
+- Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning, Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom'23) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
+- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
+
 ## Experiences
 - __Machine Learning Engineer @ Team ISLAND, Aug 2020 ~ Sep 2020__  
 Worked on building a lightweight 3D pose estimation model via knowledge distillation. To distill the knowledge from the regression-based teacher model, conducted label smoothing based on a gaussian filter to the output of the teacher model and jointly trained the student model with both the teacher model and the ground truth.
@@ -27,12 +33,6 @@ Worked on building a lightweight 3D pose estimation model via knowledge distilla
   Researched transferring makeup between non-labeled face images. By matching the corresponding regions with local embeddings and applying the color transfer techniques on those matches, successfully transferred makeup without any guidance from humans.
 - __Software Engineer Intern @ [byclip](http://www.byclip.com), Jun 2017 ~ Aug 2017__  
   Developed a chatbot management system with MongoDB and Express, and developed an interactive item-based recommender system for restaurants.
-
-## Publications
-
-- Jingyu Lee, Hyunsoo Kim, Minjae Kim, Byung-Gon Chun, Youngki Lee. Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality, The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) (To appear)
-- Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning, Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
-- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
 
 ## Others
 I was a finalist of International Science and Engineering Fair sponsored by Intel (Intel ISEF 2015). 
