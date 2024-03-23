@@ -38,7 +38,9 @@ Worked on building a lightweight 3D pose estimation model via knowledge distilla
 I was a finalist of International Science and Engineering Fair sponsored by Intel (Intel ISEF 2015). 
 
 I deejay house music, especially for deep house and tech house.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fPhrz-hBR6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fPhrz-hBR6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 If you are interested in working with me, please contact me via email widiba03304 at gmail dot com. 
 When you really want to contact me, please add the prefix `[HELLO]` to your title to ensure that you read this.
