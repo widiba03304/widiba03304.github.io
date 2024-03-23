@@ -7,9 +7,11 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <iframe
-    src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSeoul&bgcolor=%23ffffff&showCalendars=0&showTabs=0&showPrint=0&showNav=0&showTitle=0&showDate=0&mode=WEEK&src=d2lkaWJhMDMzMDRAZ21haWwuY29t&src=YWluZ28wMzMwNEBzbnUuYWMua3I&src=bWluamFlLmtpbUBoY3Muc251LmFjLmty&src=bWpraW1AcGxhc2suYWk&color=%23039BE5&color=%23E4C441&color=%23EF6C00&color=%23D50000"
-    style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <div class="responsive-iframe-container">
+    <iframe
+      src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSeoul&bgcolor=%23ffffff&showCalendars=0&showTabs=0&showPrint=0&showNav=0&showTitle=0&showDate=0&mode=WEEK&src=d2lkaWJhMDMzMDRAZ21haWwuY29t&src=YWluZ28wMzMwNEBzbnUuYWMua3I&src=bWluamFlLmtpbUBoY3Muc251LmFjLmty&src=bWpraW1AcGxhc2suYWk&color=%23039BE5&color=%23E4C441&color=%23EF6C00&color=%23D50000"
+      style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
 
   {{ content }}
 
