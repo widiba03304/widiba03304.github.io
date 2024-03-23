@@ -6,7 +6,7 @@ layout: default
 
   <header class="post-header">
     {%- if page.image_url != "" -%}
-    <img class="post-image" src="{{ page.image_url }}"/>
+    <img class="post-image" src="{{ page.image_url }}" />
 
     {%- else -%}
     <div class="post-image-default"></div>
@@ -19,8 +19,10 @@ layout: default
             {{ page.date | date: date_format }}
           </time>
           {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-          {%- endif -%}</div>
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+              itemprop="name">{{ page.author | escape }}</span></span>
+          {%- endif -%}
+        </div>
         <div class="post-title" itemprop="name headline">{{ page.title | escape }}</div>
       </div>
     </div>
@@ -32,7 +34,7 @@ layout: default
   {% include disqus_comments.html %}
 
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
