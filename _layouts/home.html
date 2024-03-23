@@ -4,31 +4,35 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+
+  <iframe
+    src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSeoul&bgcolor=%23ffffff&showCalendars=0&showTabs=0&showPrint=0&showNav=0&showTitle=0&showDate=0&mode=WEEK&src=d2lkaWJhMDMzMDRAZ21haWwuY29t&src=YWluZ28wMzMwNEBzbnUuYWMua3I&src=bWluamFlLmtpbUBoY3Muc251LmFjLmty&src=bWpraW1AcGxhc2suYWk&color=%23039BE5&color=%23E4C441&color=%23EF6C00&color=%23D50000"
+    style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {%- if post.image_url != "" -%}
-          <img class="post-image" src="{{ post.image_url }}"/>
-          {%- else -%}
-          <div class="post-image-default"></div>
-          {%- endif -%}
-          <div class="post-card">
-            <div class="post-date">{{ post.date | date: date_format }}</div>
-            <div class="post-title">{{ post.title | escape }}</div>
-          </div>
-        </a>
-      </li>
-      {%- endfor -%}
-    </ul>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {%- if post.image_url != "" -%}
+        <img class="post-image" src="{{ post.image_url }}" />
+        {%- else -%}
+        <div class="post-image-default"></div>
+        {%- endif -%}
+        <div class="post-card">
+          <div class="post-date">{{ post.date | date: date_format }}</div>
+          <div class="post-title">{{ post.title | escape }}</div>
+        </div>
+      </a>
+    </li>
+    {%- endfor -%}
+  </ul>
   {%- endif -%}
 </div>
