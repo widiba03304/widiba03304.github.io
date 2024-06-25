@@ -16,7 +16,7 @@ Now, I am interested in accelerating computation-heavy systems with software opt
 
 ## Publications
 
-- Jingyu Lee, Hyunsoo Kim, __Minjae Kim__, Byung-Gon Chun, Youngki Lee. Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality, The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys'24) [(Link)](https://dl.acm.org/doi/abs/10.1145/3643832.3661414)
+- Jingyu Lee, Hyunsoo Kim, __Minjae Kim__, Byung-Gon Chun, Youngki Lee. Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality, The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys'24) [(Link)](https://dl.acm.org/doi/10.1145/3643832.3661891)
 - Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning, Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom'23) (Poster) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
 - Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
 
