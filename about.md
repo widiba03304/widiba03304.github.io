@@ -12,7 +12,7 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Se
 
 I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (advised by [Prof. Youngki Lee](https://youngkilee.blogspot.com/)), was in [Software Platform Lab](https://spl.snu.ac.kr) (advised by [Prof. Byung-Gon Chun](http://bgchun.github.io/)), and worked as an undergraduate research intern at [Computing Systems Lab](https://syslab.postech.ac.kr) (advised by [Prof. Hyojin Sung](https://hsung.snu.ac.kr/)).
 
-Now, I am interested in accelerating computation-heavy systems with software optimization for heterogeneous mobile devices. Currently, my main focus is on deep learning, but I don't limit my interest to it. I firmly believe that cross-domain optimization from silicon to human is essential for deep learning (or any other areas) to penetrate our daily lives.
+Research focuses on accelerating computation-intensive systems on heterogeneous mobile devices through software optimization. Primary interest in deep learning with a broader commitment to cross-domain optimization—from hardware to human—to drive real-world adoption
 
 ## Publications
 [\*: Equal contribution]
