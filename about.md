@@ -15,13 +15,13 @@ I am currently in [Human-centered Computer Systems Lab](https://hcs.snu.ac.kr) (
 Now, I am interested in accelerating computation-heavy systems with software optimization for heterogeneous mobile devices. Currently, my main focus is on deep learning, but I don't limit my interest to it. I firmly believe that cross-domain optimization from silicon to human is essential for deep learning (or any other areas) to penetrate our daily lives.
 
 ## Publications
-
-- Kichang Yang, Seonjun Kim, __Minjae Kim__, Nairan Zhang, Chi Zhang, Youngki Lee, VLM in a flash: Neuron Chunking for Flash-offloaded Vision-Language Model Inference, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS '25) (To appear)
+[\*: Equal contribution]
+- Kichang Yang*, Seonjun Kim*, __Minjae Kim__, Nairan Zhang, Chi Zhang, Youngki Lee, VLM in a flash: Neuron Chunking for Flash-offloaded Vision-Language Model Inference, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS '25) (To appear)
 - Dongho Han, Jingyu Lee, __Minjae Kim__, Youngki Lee, XRMan: Towards Real-time Hand-Object Pose Tracking in eXtended Reality, The 30th Annual International Conference On Mobile Computing And Networking (MobiCom '24 Posters) [(Link)](https://dl.acm.org/doi/10.1145/3636534.3697422)
 - Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim, Non-Invasive, Memory Access-Triggered Near-Data Processing for DNN Training Acceleration on GPUs, IEEE Access [\*: Equal contribution], Sep 24. [(Link)](https://ieeexplore.ieee.org/document/10685403)
 - Jingyu Lee, Hyunsoo Kim, __Minjae Kim__, Byung-Gon Chun, Youngki Lee. Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality, The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '24) [(Link)](https://dl.acm.org/doi/10.1145/3643832.3661891)
 - Seonjun Kim, __Minjae Kim__, Youngki Lee, A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning, Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (MobiCom '23 Posters) [(Link)](https://dl.acm.org/doi/abs/10.1145/3570361.3615753)
-- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) [\*: Equal contribution], Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
+- Hyungkyu Ham\*, Hyunuk Cho\*, __Minjae Kim__, Jueon Park, Jeongmin Hong, Hyojin Sung, Eunhyeok Park, Euicheol Lim, Gwangsun Kim. Near-Data Processing in Memory Expander for DNN Acceleration on GPUs, IEEE Computer Architecture Letters (CAL) , Nov 21. [(Link)](https://ieeexplore.ieee.org/abstract/document/9609620)
 
 ## Experiences
 - __Machine Learning Engineer @ Team ISLAND, Aug 2020 ~ Sep 2020__  
